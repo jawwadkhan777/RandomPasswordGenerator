@@ -26,7 +26,7 @@ The Random Password Generator allows you to:
 To get started with this project, simply clone this repository and open the desired queue implementation file in your preferred Java IDE (e.g., IntelliJ IDEA). No additional setup is required!
 
 ```bash
-git clone https://github.com/jawwadkhan777/Calculator.git
+git clone https://github.com/jawwadkhan777/RandomPasswordGenerator.git
 ```
 
 ## Support and Feedback 📧
